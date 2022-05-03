@@ -1,5 +1,5 @@
 {
-    "name": "@earthddx/react-mui-carousel",
+    "name": "react-mui-carousel-artemm",
     "version": "3.3.3",
     "license": "MIT",
     "description": "A Generic, extendible Carousel UI component for React using Material UI",
@@ -75,8 +75,5 @@
         "@mui/system": "^5.0.0",
         "react": "^18.0.0",
         "react-dom": "^18.0.0"
-    },
-    "publishConfig": {
-        "earthddx:registry": "https://npm.pkg.github.com"
     }
 }
