@@ -1,12 +1,12 @@
 {
-    "name": "react-material-ui-carousel",
+    "name": "react-mui-carousel",
     "version": "3.3.3",
     "license": "MIT",
     "description": "A Generic, extendible Carousel UI component for React using Material UI",
     "homepage": "https://learus.github.io/react-material-ui-carousel",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Learus/react-material-ui-carousel"
+        "url": "https://github.com/earthddx/react-mui-carousel"
     },
     "keywords": [
         "react",
@@ -55,8 +55,8 @@
         "@mui/material": "^5.4.1",
         "@mui/system": "^5.4.1",
         "framer-motion": "^4.1.17",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2"
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
@@ -73,7 +73,7 @@
         "@mui/icons-material": "^5.0.0",
         "@mui/material": "^5.0.0",
         "@mui/system": "^5.0.0",
-        "react": "^17.0.1",
-        "react-dom": "^17.0.1"
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
     }
 }
