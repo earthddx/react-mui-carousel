@@ -77,6 +77,6 @@
         "react-dom": "^18.0.0"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/earthddx"
+        "earthddx:registry": "https://npm.pkg.github.com"
     }
 }
